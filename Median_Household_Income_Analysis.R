@@ -1,7 +1,3 @@
-#21:219:220 Fundamentals of Data Visualization, Spring 2021
-#Final Project - Question 4
-#Kobe Lee Martinez, RUID: 202006380
-
 #Importing libraries
 library(RColorBrewer)
 library(Cairo)
